@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  min-width: 960px;
+}
+
+header,
+footer {
+  background-color: rgb(238, 238, 238);
+}
+
+.header_wrapper,
+.footer_wrapper {
+  width: 700px;
+  margin: 0 auto;
+  text-align-last: justify;
+}
+
+.banner_wrapper,
+article {
+  width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+p {
+  color: rgb(90, 90, 90);
+}
